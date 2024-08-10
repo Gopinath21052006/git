@@ -1,1 +1,12 @@
-test 
+
+
+add to github
+
+1)git add .
+2)git commit -m "updata file"
+3)git push origin main
+
+
+add to vs code 
+1) git pull
+
